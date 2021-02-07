@@ -18,6 +18,8 @@ The tested mappers are the following:
  * ReMap
  * Selma
 
+See this article for more info: https://masterex.github.io/archive/2021/02/08/java-bean-mapping-in-depth.html
+
 ## How to run
 
 ```bash
