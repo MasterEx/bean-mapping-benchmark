@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmapper>
+  <class name="com.github.masterex.models.SourceSimpleObject">
+    <attribute name="field1">
+      <value name="field1"/>
+    </attribute>
+    <attribute name="field2">
+      <value name="field2"/>
+    </attribute>
+    <attribute name="field3">
+      <value name="field3"/>
+    </attribute>
+    <attribute name="field4">
+      <value name="field4"/>
+    </attribute>
+    <attribute name="field5">
+      <value name="field5"/>
+    </attribute>    
+  </class>
+  <class name="com.github.masterex.models.TargetSimplePrimitiveObject">
+    <attribute name="field1">
+      <value name="field1"/>
+    </attribute>
+    <attribute name="field2">
+      <value name="field2"/>
+    </attribute>
+    <attribute name="field3">
+      <value name="field3"/>
+    </attribute>
+    <attribute name="field4">
+      <value name="field4"/>
+    </attribute>
+    <attribute name="field5">
+      <value name="field5"/>
+    </attribute>    
+  </class>
+  <class name="com.github.masterex.models.SourceSimplePrimitiveObject">
+    <attribute name="field1">
+      <value name="field1"/>
+    </attribute>
+    <attribute name="field2">
+      <value name="field2"/>
+    </attribute>
+    <attribute name="field3">
+      <value name="field3"/>
+    </attribute>
+    <attribute name="field4">
+      <value name="field4"/>
+    </attribute>
+    <attribute name="field5">
+      <value name="field5"/>
+    </attribute>    
+  </class>
+  <class name="com.github.masterex.models.TargetSimpleObject">
+    <attribute name="field1">
+      <value name="field1"/>
+    </attribute>
+    <attribute name="field2">
+      <value name="field2"/>
+    </attribute>
+    <attribute name="field3">
+      <value name="field3"/>
+    </attribute>
+    <attribute name="field4">
+      <value name="field4"/>
+    </attribute>
+    <attribute name="field5">
+      <value name="field5"/>
+    </attribute>    
+  </class>
+  <class name="com.github.masterex.models.TargetSimpleListObject">
+    <attribute name="list1">
+      <value name="list1"/>
+    </attribute>
+    <attribute name="list2">
+      <value name="list2"/>
+    </attribute>
+    <attribute name="list3">
+      <value name="list3"/>
+    </attribute>
+    <attribute name="list4">
+      <value name="list4"/>
+    </attribute>
+    <attribute name="list5">
+      <value name="list5"/>
+    </attribute>    
+  </class>
+  <class name="com.github.masterex.models.TargetSimpleArrayObject">
+    <attribute name="array1">
+      <value name="array1"/>
+    </attribute>
+    <attribute name="array2">
+      <value name="array2"/>
+    </attribute>
+    <attribute name="array3">
+      <value name="array3"/>
+    </attribute>
+    <attribute name="array4">
+      <value name="array4"/>
+    </attribute>
+    <attribute name="array5">
+      <value name="array5"/>
+    </attribute>    
+  </class>
+  <class name="com.github.masterex.models.TargetComplexObject">
+    <attribute name="simpleObject">
+      <value name="simpleObject"/>
+    </attribute>
+    <attribute name="listObject">
+      <value name="listObject"/>
+    </attribute>
+    <attribute name="date">
+      <value name="date"/>
+    </attribute>
+    <attribute name="number">
+      <value name="number"/>
+    </attribute>   
+  </class>
+  <class name="com.github.masterex.models.SourceComplexObject2">
+    <attribute name="list1">
+      <value name="list1"/>
+    </attribute>  
+  </class>
+  <class name="com.github.masterex.models.TargetComplexObject2">
+    <attribute name="list1">
+      <value name="list1"/>
+    </attribute> 
+  </class>
+  <class name="com.github.masterex.models.SourceIntegerWrapper">
+    <attribute name="o">
+      <value name="o"/>
+    </attribute> 
+  </class>
+</jmapper>

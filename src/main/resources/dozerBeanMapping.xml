@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozermapper.github.io/schema/bean-mapping"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dozermapper.github.io/schema/bean-mapping http://dozermapper.github.io/schema/bean-mapping.xsd">
+
+    <mapping>
+        <class-a>com.github.masterex.models.SourceSimpleArrayObject</class-a>
+        <class-b>com.github.masterex.models.TargetSimpleArrayObject</class-b>
+        <field remove-orphans="true">
+            <a>array1</a>
+            <b>array1</b>
+        </field>
+        <field remove-orphans="true">
+            <a>array2</a>
+            <b>array2</b>
+        </field>
+        <field remove-orphans="true">
+            <a>array3</a>
+            <b>array3</b>
+        </field>
+        <field remove-orphans="true">
+            <a>array4</a>
+            <b>array4</b>
+        </field>
+        <field remove-orphans="true">
+            <a>array5</a>
+            <b>array5</b>
+        </field>
+    </mapping> 
+    
+    <mapping>
+        <class-a>com.github.masterex.models.SourceIntegerWrapper</class-a>
+        <class-b>com.github.masterex.models.TargetIntegerWrapper</class-b>
+        <field remove-orphans="true">
+            <a>o</a>
+            <b>o</b>
+        </field>
+    </mapping> 
+    
+</mappings> 
